@@ -12,7 +12,7 @@
             "request": "launch",
             "program": "${workspaceFolder}/${workspaceFolderBasename}.exe",
             "stopAtEntry": false,
-            "args": ["server"],
+            "args": ["dirent/README.md"],
             "cwd": "${workspaceFolder}",
             "environment": [],
             "externalConsole": true,
