@@ -12,7 +12,7 @@
             "request": "launch",
             "program": "${workspaceFolder}/${workspaceFolderBasename}.exe",
             "stopAtEntry": false,
-            "args": ["dirent/README.md"],
+            "args": ["*.cpp"],
             "cwd": "${workspaceFolder}",
             "environment": [],
             "externalConsole": true,
